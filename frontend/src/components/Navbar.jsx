@@ -7,7 +7,7 @@ const navItems = [
   { to: '/',          label: 'Beranda',   icon: Home },
   { to: '/analisis',  label: 'Analisis',  icon: Brain },
   { to: '/dashboard', label: 'Dashboard', icon: BarChart3 },
-  { to: '/upload',    label: 'Upload CSV',icon: Upload },
+  // { to: '/upload',    label: 'Upload CSV',icon: Upload },
 ]
 
 export default function Navbar() {

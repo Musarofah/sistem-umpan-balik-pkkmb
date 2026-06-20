@@ -153,9 +153,9 @@ export default function Home() {
             <Link to="/analisis" className="btn-primary flex items-center gap-2">
               <Brain size={18} /> Analisis Teks
             </Link>
-            <Link to="/upload" className="flex items-center gap-2 border border-slate-200 hover:border-slate-300 text-slate-700 font-semibold px-6 py-3 rounded-xl transition-all">
+            {/* <Link to="/upload" className="flex items-center gap-2 border border-slate-200 hover:border-slate-300 text-slate-700 font-semibold px-6 py-3 rounded-xl transition-all">
               <Upload size={18} /> Upload CSV
-            </Link>
+            </Link> */}
           </div>
         </div>
       </section>
