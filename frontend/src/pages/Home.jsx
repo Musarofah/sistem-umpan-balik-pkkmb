@@ -163,7 +163,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-slate-800 text-slate-400 text-sm py-8 px-6 text-center">
         <p className="font-display font-semibold text-white mb-1">Sistem Evaluasi PKKMB — Analisis Sentimen</p>
-        <p>Menggunakan model IndoBERT · Universitas Pamulang · Tugas Akhir 2025</p>
+        <p>Menggunakan model IndoBERT · Politeknik Caltex Riau · Proyek Akhir 2026</p>
       </footer>
     </div>
   )
